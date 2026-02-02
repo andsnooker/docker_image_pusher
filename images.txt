@@ -1,3 +1,2 @@
-redis
-nginx
---platform=linux/arm64
+redis --platform=linux/arm64
+
