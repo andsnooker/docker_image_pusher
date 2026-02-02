@@ -1,2 +1,2 @@
-redis --platform linux/arm64
+registry.cn-hangzhou.aliyuncs.com/qiluo-images/linux_arm64_redis:latest
 
